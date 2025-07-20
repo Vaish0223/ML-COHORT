@@ -24,3 +24,14 @@ Scaled Income and Spending Score using StandardScaler
 5 clusters identified: High spenders, average spenders, low-income frugal, etc.
 Visualized clusters using 2D and 3D scatter plots
 Insights help mall managers target each segment with tailored offers
+
+**Tech Stack**
+Python, Pandas, NumPy
+
+Scikit-learn
+
+Matplotlib, Seaborn
+
+Jupyter Notebook / Google Colab
+
+***By Mentee- Vaishnavi Dixit- Amazon Summer School ML Cohort***
